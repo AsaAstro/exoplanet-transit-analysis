@@ -1,5 +1,4 @@
-# exoplanet-transit-analysis
-TESS light curve analysis for exoplanet transit detection
+
 # Exoplanet Transit Analysis
 
 Analysis of TESS light curves for exoplanet transit detection.
